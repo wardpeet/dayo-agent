@@ -12,4 +12,3 @@ export const mastra = new Mastra({
   }),
 });
 
-console.log({ mastra })
