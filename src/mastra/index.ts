@@ -11,5 +11,3 @@ export const mastra = new Mastra({
     level: 'INFO',
   }),
 });
-
-console.log({ mastra })
