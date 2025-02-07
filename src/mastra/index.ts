@@ -7,7 +7,6 @@ export const mastra = new Mastra({
   workflows: { weatherWorkflow },
   agents: { weatherAgent },
   logger: createLogger({
-    type: 'CONSOLE',
-    level: 'INFO',
+    level: 'info',
   }),
 });

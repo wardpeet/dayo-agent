@@ -4,21 +4,19 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "mastra dev",
-    "build": "echo 'build'"
+    "dev": "mastra dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "description": "",
   "dependencies": {
-    "@mastra/core": "^0.1.27-alpha.63",
+    "@mastra/core": "^0.2.0-alpha.83",
     "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22.10.7",
-    "mastra": "^0.1.57-alpha.92",
+    "mastra": "^0.1.57-alpha.133",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
   }
